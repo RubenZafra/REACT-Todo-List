@@ -41,7 +41,7 @@ const CustomForm = ({ addTask }) => {
               htmlFor="task"
               className="label"
             
-            >Enter Task</label>
+            >Enter New Task...</label>
         </div>
         <button 
             className="btn"
